@@ -1,3 +1,6 @@
+name: Interactive Pinout Generator
+uses: chuckwagoncomputing/interactive-pinout@2.15
+            
 name: "Interactive Pinout Generator"
 description: "Generates interactive pinouts from mappings"
 author: "dave@holdemanenterprises.com"
